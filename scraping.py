@@ -65,4 +65,4 @@ df.to_html()
 
 #Quit browser
 browser.quit()
-
+ 
